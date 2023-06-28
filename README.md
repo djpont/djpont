@@ -1,18 +1,21 @@
 ### Hello everyone, my name is Alexander 👋
 
-I am an experienced developer with a focus on web technologies. My tech stack includes JS (ES6+), TypeScript, React, Redux, NodeJS, Express, SSR, Jest, PostCSS, SQL, Sequelize, Webpack, Parcel, Vite, PHP, and C#. I am passionate about creating CRM systems, and my previous projects involve developing an messenger and an online game.
+I am an experienced developer with a focus on web technologies. My tech stack includes JS (ES6+), TypeScript, React, Redux, NodeJS, Express, SSR, Jest, PostCSS, SQL, Sequelize, Webpack, Parcel, Vite, PHP, and C#.
 
-💡 My main goal is to learn how to analyze and improve application performance. I strive to work on real-world projects where I can apply my skills and experience in practice.
+💡 My main goal is to learn how to analyze and improve application performance.
 
-👥 I am looking for an opportunity to work with experienced colleagues. I believe that collaborating and exchanging knowledge and ideas will help me grow as a developer.
-
-📚 Additionally, I am always eager to learn new frameworks and technologies.
+👥 I am looking for an opportunity to work with experienced colleagues.
 
 ✍️ My coding style is characterized by writing clean, readable code.
 
-🌟 If you are looking for an experienced developer who can effectively contribute to your team and bring value to your project, I am always open to new opportunities. Let's get in touch and discuss how I can help you achieve your goals!
+🌟 I am always open to new opportunities.
 
-Thank you for your attention!
+#### My contacts:
+
+Email: <a href="mailto:alexandervotyakov@gmail.com" target="_blank">alexandervotyakov@gmail.com</a>
+
+Telegram: <a href="https://t.me/djpont" target="_blank">djpont</a>
+
 
 #### My statistics:
 <div>
