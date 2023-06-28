@@ -1,6 +1,6 @@
-### Hello everyone, my name is Alexander 👋
+### Alexander Votyakov. Frontend Developer. Tbilisi, Georgia.
 
-I am an experienced developer with a focus on web technologies. My tech stack includes JS (ES6+), TypeScript, React, Redux, NodeJS, Express, SSR, Jest, PostCSS, SQL, Sequelize, Webpack, Parcel, Vite, PHP, and C#.
+Hello everyone! I am an experienced developer with a focus on web technologies. My tech stack includes JS (ES6+), TypeScript, React, Redux, NodeJS, Express, SSR, Jest, PostCSS, SQL, Sequelize, Webpack, Parcel, Vite, PHP, and C#.
 
 💡 My main goal is to learn how to analyze and improve application performance.
 
